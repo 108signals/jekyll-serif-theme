@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: CoBuild Partners
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Fueling Govtech Startups - CoBuild Partners.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Fueling Govtech Startups - CoBuild Partners
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Welcome to CoBuild Partners, the catalyst for early-stage Govtech startups aiming to revolutionize public sector services. Our mission is to empower visionary entrepreneurs with the resources, guidance, and network they need to transform government operations and create impactful digital solutions.

@@ -2,7 +2,7 @@
 title: CoBuild Partners
 layout: home
 description: Fueling Govtech Startups - CoBuild Partners.
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/hero_image.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
